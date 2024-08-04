@@ -7,8 +7,11 @@
 | K-Nearest Neighbors (KNN)                   | 74.41 %      |
 | K-Nearest Neighbors (KNN) after SMOTE       | 80.49 %      |
 | Support Vector Machine (SVM)                | 74.27 %      |
-|  Support Vector Machine (SVM)               | 77.49%       |
+|  Support Vector Machine (SVM) after SMOTE   | 77.49%       |
 
+## Dataset
+
+NSL KDD
 
 ## References
 
